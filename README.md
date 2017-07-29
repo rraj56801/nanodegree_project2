@@ -15,7 +15,7 @@
 # Basket score layout
 ![alt text](screenshot/basket.PNG "Description goes here")
 
-![alt text](screenshot/basketball.jpeg "Description goes here")
+![alt text](screenshot/basketball_p.jpeg "Description goes here")
 
 
 
